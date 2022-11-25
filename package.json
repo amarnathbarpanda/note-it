@@ -1,0 +1,16 @@
+{
+  "name": "note-it",
+  "version": "1.0.0",
+  "description": "This is a mern stack note making app.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon backend/index.js"
+  },
+  "author": "Amarnath Barpanda",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
